@@ -23,10 +23,10 @@
         by
         <a
           xmlns:cc="http://creativecommons.org/ns#"
-          href="https://github.com/tks18"
+          href="https://github.com/teleflix0"
           property="cc:attributionName"
           rel="cc:attributionURL"
-          >Sudharshan TK</a
+          >TTU</a
         >
         is licensed under a
         <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"
